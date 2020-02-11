@@ -12,7 +12,9 @@ Ranked by priority:
 2. Click on the circle that can score the most in the highest column.
 3. If every circle in the highest column only scores 1 point, then find the circle on board that can score the most.
 
-## Closest Distancd
+## Closest Distance
+The code is in hw0p4 myFindSimilar.java.
+
 A word w is a String of arbitrary length. Similarly, the dictionary D contains |D| String s of arbitrarily length.
 The distance ẟ(w,w') between w and a word w' ∈ D is defined as the number of changes needed to make to w to get w', where there are two acceptable changes:
 - insert(c, i) - inserts character c after the i -th character of w;
