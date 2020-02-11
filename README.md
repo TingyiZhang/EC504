@@ -27,11 +27,11 @@ ogre
 onyx
 oss
 ```
-ẟ(ores, oast) = 3 ... remove re, insert a, insert t
-ẟ(ores, oath) = 4 ... remove res, insert a, insert t, insert h
-ẟ(ores, ogre) = 2 ... insert g and remove s.
-ẟ(ores, onyx) = 4 ... remove res, insert n, insert y, insert x
-ẟ(ores, oss) = 2 ... remove re, insert s
+- ẟ(ores, oast) = 3 ... remove re, insert a, insert t
+- ẟ(ores, oath) = 4 ... remove res, insert a, insert t, insert h
+- ẟ(ores, ogre) = 2 ... insert g and remove s.
+- ẟ(ores, onyx) = 4 ... remove res, insert n, insert y, insert x
+- ẟ(ores, oss) = 2 ... remove re, insert s
 
 ### My solution
 1. Find the longest common subsequence using dynamic programming.
