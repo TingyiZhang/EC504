@@ -4,6 +4,8 @@ This is homework0 for EC504 Advanced Data Structure.
 ## SameGameTris
 The hw0p3 file contains the code of a game called SameGameTris written by Prof. Ari Trachtenberg. This game is basically the combination of Same Game and Tetris.
 
+<img src = "https://github.com/TingyiZhang/EC504-Homework0/blob/master/SameGameTris.gif">
+
 What I needed to do, is modified the smarterBrain.java file, and create a automatic player.
 
 ### My strategy
