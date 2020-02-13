@@ -14,6 +14,13 @@ Ranked by priority:
 2. Click on the circle that can score the most in the highest column.
 3. If every circle in the highest column only scores 1 point, then find the circle on board that can score the most.
 
+### Defect
+I think my logic is good, but it still performes under my expectation.
+My thoughts:
+- Time complexity, there are so many for loops in my code. But starngely, it didn't perform well on 10 by 10 board, which doesn't make sense.
+- Maybe there are better ways than mine, but I still think my logic is correct.
+- Luck: because new circles are random, so being lucky is important...
+
 ## Closest Distance
 The code is in hw0p4 myFindSimilar.java.
 
