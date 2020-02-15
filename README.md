@@ -6,7 +6,7 @@ The hw0p3 file contains the code of a game called SameGameTris written by Prof. 
 
 <img src = "https://github.com/TingyiZhang/EC504-Homework0/blob/master/SameGameTris.gif">
 
-What I needed to do, is modified the smarterBrain.java file, and create a automatic player.
+What I needed to do, is modified the smarterBrain.java file, and create an automatic player.
 
 ### My strategy
 Ranked by priority:
