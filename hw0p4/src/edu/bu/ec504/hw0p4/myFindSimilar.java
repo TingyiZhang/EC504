@@ -96,7 +96,11 @@ public class myFindSimilar implements FindSimilar {
             steps++; // if there is no lcs, it takes at least one step to remove all the letters
         }
 
-        return steps + s2.length() - dp[s1.length()][s2.length()]; // remove steps + insertion steps
+        if (index.size() == s1.length()) { // if lsc == word, no need to insert anything
+            return steps; // steps of bulk remove
+        } else {
+            return steps + s2.length() - dp[s1.length()][s2.length()]; // remove steps + insertion steps
+        }
     }
 }
 
