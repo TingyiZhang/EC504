@@ -1,6 +1,9 @@
 # EC504
 This is a repo for homeworks of EC504.
 
+ - [Homework0](https://github.com/TingyiZhang/EC504#homework0)
+ - [Homework1](https://github.com/TingyiZhang/EC504#homework1)
+
 ## Homework0
 This is homework0 for EC504 Advanced Data Structure.
 
