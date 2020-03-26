@@ -3,6 +3,7 @@ This is a repo for homeworks of EC504.
 
  - [Homework0](https://github.com/TingyiZhang/EC504#homework0)
  - [Homework1](https://github.com/TingyiZhang/EC504#homework1)
+ - [Homework2](https://github.com/TingyiZhang/EC504#homework2)
 
 ## Homework0
 This is homework0 for EC504 Advanced Data Structure.
@@ -76,3 +77,5 @@ The main idea behind our efficient storage is to maintain a dictionary of common
 #### My solution
 1. For every line, find every common prefix and store them into the dictionary.
 2. And went through the text line by line and find the longest common prefix in the dictionary and store the result in an atom.
+
+## Homework2
