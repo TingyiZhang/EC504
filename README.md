@@ -79,3 +79,16 @@ The main idea behind our efficient storage is to maintain a dictionary of common
 2. And went through the text line by line and find the longest common prefix in the dictionary and store the result in an atom.
 
 ## Homework2
+### Hash Family
+The goal of this problem is to build to hash family that every hash function is independent to each other.
+- My solution: Universal Hashing
+
+### BST
+This problem ask us to do some operations on a bst. I'm running out of time so I can't finish this well...
+
+### MapReduce
+Using MapReduce to solve some specific tasks:
+- Counting the number of unique words
+- List words that appear only on even numbered lines.
+- Produce a histogram of the lengths of words in the file
+- Produce a list of pairs of lines with the number of words they have in common.
