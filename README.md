@@ -4,6 +4,7 @@ This is a repo for homeworks of EC504.
  - [Homework0](https://github.com/TingyiZhang/EC504#homework0)
  - [Homework1](https://github.com/TingyiZhang/EC504#homework1)
  - [Homework2](https://github.com/TingyiZhang/EC504#homework2)
+ - [Homework3](https://github.com/TingyiZhang/EC504#homework3)
 
 ## Homework0
 This is homework0 for EC504 Advanced Data Structure.
@@ -92,3 +93,9 @@ Using MapReduce to solve some specific tasks:
 - List words that appear only on even numbered lines.
 - Produce a histogram of the lengths of words in the file
 - Produce a list of pairs of lines with the number of words they have in common.
+
+## Homework3
+### Graph Algorithm
+- Implement a weighted graph.
+- Implement an algorithm to calculate Euler's formula.
+- Implement an algorithm to color the graph.
