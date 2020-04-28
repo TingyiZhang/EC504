@@ -99,3 +99,22 @@ Using MapReduce to solve some specific tasks:
 - Implement a weighted graph.
 - Implement an algorithm to calculate Euler's formula.
 - Implement an algorithm to color the graph.
+
+### Finding the Longest Alphabetic Sequence
+- An easy problem, the goal is as fast as possible.
+Example:
+Input:
+```
+hello
+how
+are
+you
+today
+```
+Output:
+```
+hello
+how
+you
+```
+
