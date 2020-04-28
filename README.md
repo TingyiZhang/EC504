@@ -102,7 +102,8 @@ Using MapReduce to solve some specific tasks:
 
 ### Finding the Longest Alphabetic Sequence
 - An easy problem, the goal is as fast as possible.
-Example:
+- Example:
+
 Input:
 ```
 hello
