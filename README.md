@@ -7,7 +7,7 @@ This is a repo for homeworks of EC504.
  - [Homework3](https://github.com/TingyiZhang/EC504#homework3)
 
 ## Homework0
-This is homework0 for EC504 Advanced Data Structure.
+This is homework0 for Boston University EC504 Advanced Data Structure.
 
 ### SameGameTris
 The hw0p3 file contains the code of a game called SameGameTris written by Prof. Ari Trachtenberg. This game is basically the combination of Same Game and Tetris.
